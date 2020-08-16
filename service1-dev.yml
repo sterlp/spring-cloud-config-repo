@@ -1,7 +1,7 @@
 config:
   foo: '{cipher}86d8a4d9444c247f1a6d6e91c0abaaf1cd584ee9815cdfab8f0b33ad9b369f8f76804bf9ecef229a615f7b24ef42ac73'
 clients: '{
-  "user1": {"roles": ["ROLE1"], "password": "$2a$10$8T7xZ02Bw//Jfqb1CYTYmOe3nLFPAF/CDKkdtrA22YazJCFpCe1ji"},
+  "user1": {"roles": ["ROLE1"], "password": "$2a$10$io5vVhXdQgxIhan0jKhZi.G8SreGtENqWLC11D8NMI.LGR9p8dzt."},
   "user2": {"roles": ["ADMIN"], "password": "$2a$10$.Ze7v2LOEcKnMtvM7A7XjeOuhSOn34zWtnL.NuJuc5aQ2TbMhpeEi"},
   "user3": {"password": "$2a$10$kfpSG7FUSLM89MubAyeso.QZMj3ZaJ8TX2yzC1OwxoT0A/RiQURZ2"}
 }'
