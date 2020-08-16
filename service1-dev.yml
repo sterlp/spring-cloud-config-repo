@@ -3,5 +3,5 @@ config:
 clients: '{
   "user1": {"roles": ["ROLE1"], "password": "$2a$10$8T7xZ02Bw//Jfqb1CYTYmOe3nLFPAF/CDKkdtrA22YazJCFpCe1ji"},
   "user2": {"roles": ["ADMIN"], "password": "$2a$10$.Ze7v2LOEcKnMtvM7A7XjeOuhSOn34zWtnL.NuJuc5aQ2TbMhpeEi"},
-  "user3": {"password": "$2a$10$kfpSG7FUSLM89MubAyeso.QZMj3ZaJ8TX2yzC1OwxoT0A/RiQURZ2"},
+  "user3": {"password": "$2a$10$kfpSG7FUSLM89MubAyeso.QZMj3ZaJ8TX2yzC1OwxoT0A/RiQURZ2"}
 }'
