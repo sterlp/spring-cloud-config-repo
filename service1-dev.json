@@ -1,9 +1,0 @@
-{
-    "json-users": [
-        {
-            "name": "Foo",
-            "password": "Foo_Pass",
-            "roles": ["Role1", "Role2"]
-        }
-    ]
-}
