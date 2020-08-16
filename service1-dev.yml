@@ -1,12 +1,9 @@
 config:
   foo: '{cipher}86d8a4d9444c247f1a6d6e91c0abaaf1cd584ee9815cdfab8f0b33ad9b369f8f76804bf9ecef229a615f7b24ef42ac73'
-clients:
-  - username: rw
-    password: rw
-    roles: READ,WRITE
-  - username: r
-    password: r
-    roles: READ
-  - username: w
-    password: w
-    roles: WRITE
+clients: [
+      {
+          "name": "Foo",
+          "password": "Foo_Pass"
+          "roles": ["Role1", "Role2"]
+      }
+  ]
